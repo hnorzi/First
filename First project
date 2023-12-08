@@ -1,1 +1,15 @@
-
+<!doctype html>
+<html>
+  <body>
+  <a href="./Amir.html">click</a>
+  <p style="color:blue">amir</p>
+  <h1 style="color:red; background- color:blue;">amir</h1>
+  <marquee direction="up"><b>من‌‌ امیرحسین نوروزی سازنده این فایل هستم</b></marquee>
+  <img src=”<a href="https://ibb.co/MkGrNyH"><img src="https://i.ibb.co/qYWK1L8/IMG-20221220-105447.jpg" alt="IMG-20221220-105447" width="350" border="0"></a>
+  <form>
+	    فرم: <input type="letter" name="quantity" min="1" max="5">
+  		<input type="submit">
+	</form>
+	<body style="background-color:orange">
+  </body>
+</html>
